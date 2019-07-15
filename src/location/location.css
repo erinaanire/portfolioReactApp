@@ -1,0 +1,16 @@
+.locationmap{
+    height: 325px;
+    
+    border: solid 2px;
+    text-align: center;
+    color: white;
+    padding-bottom:  1%;
+}
+.locationmap h2{
+    background-color: blue;
+    padding: 1% 0%;
+}
+.map{
+border: solid 1px red;
+height:100%;
+}

@@ -1,0 +1,25 @@
+.navbar-router{
+    border: solid 1px;
+    padding: 1% 3% 1% 5%;
+
+}
+.logo-outer{
+    float: left;
+    
+}
+.navbarlist{
+    float: right;
+    width: 25%;
+}
+.navbarlist li{
+    float: left;
+    padding: 0 0 0 5%;
+}
+.imagestructure{
+    margin: 0 auto;
+    width: 960px; 
+}
+.imagestructure img{
+    width: 100%;
+}
+
